@@ -250,7 +250,7 @@ If you use these materials, please cite both the paper and the repository.
 **Repository:**
 
 ```
-https://github.com/Thesan99/Visual-Temporal-Co-Attention
+https://github.com/Thesan99/Visual-Temporal-Co-Attention-for-Gold-ETF-Trend-Forecasting
 ```
 
 ---
