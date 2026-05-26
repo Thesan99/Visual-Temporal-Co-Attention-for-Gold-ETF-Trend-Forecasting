@@ -143,7 +143,7 @@ Summary CSV files for the appendix tables and figures:
 | `2. cv_sample_sizes.csv` | Table A2 — Windowed sample sizes per pass |
 | `3. class_distribution.csv` | Table A3 — Class counts per pass |
 | `4. predictive_performance.csv` | Table A4 — Predictive performance across all windows |
-| `5. backtesting_performance.csv` | Table A5 & Figure E1 — Backtesting performance and risk-return profile (Vol% and CAGR% columns are used to generate Figure E1) |
+| `5. backtesting_performance.csv` | Table A5 & Figure A1 — Backtesting performance and risk-return profile (Vol% and CAGR% columns are used to generate Figure A1) |
 | `6. seed_stability_20day.csv` | Table A6 — Seed-level performance ranges (20-day) |
 
 ---
